@@ -2,7 +2,7 @@
 Moves your songs from Youtube Music to a Spotify Playlist
 
 
-#Dependecies
+#Dependecies <br>
 *google-api-python-client* <br>
 *spotipy* <br>
 *"Positive Vibes"*
