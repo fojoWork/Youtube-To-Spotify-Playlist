@@ -3,8 +3,8 @@ Moves your songs from Youtube Music to a Spotify Playlist
 
 
 #Dependecies
-*google-api-python-client*
-*spotipy*
+*google-api-python-client* <br>
+*spotipy* <br>
 *"Positive Vibes"*
 
 
