@@ -2,6 +2,12 @@
 Moves your songs from Youtube Music to a Spotify Playlist
 
 
+#Dependecies
+*google-api-python-client*
+*spotipy*
+*"Positive Vibes"*
+
+
 #Step 1
 
 First you need to set up your API Keys. First go to https://cloud.google.com and go to their dashboard. Then create a new project by click the project picker in the top left corner of the screen next to the logo, and then click ''Create new project''. After that name your project anything you want and click Create. Make sure to go back to the project picker and open your new project. Next press the three lines in the top left corner and hover API and Services, then click on library. In the search bar look up Youtube Data API v3. Click on it and add it to your project by pressing enable. After that it should redirect you to another page. On that page click on credentials. When in the credentials page click Create Credentials near the top of the page and select API key. After that it will show you your api key. Make sure to copy that down because thats now your api key. Next is to go to the playlist you want to move songs from and copy its ID. In the url for the playlist look for the string of letters and numbers next to 'list='  That is your playlist ID. Put those two below.
